@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/ada-school/module-template/blob/main/ada.png">
 
 
-## Spring Boot and Java Backend Coding Challenge 💻
+## Spring Boot and Java Backend Mentor 💻 Code Challenge 💻
 
 Thank you 🙏 for taking the time to implement this coding challenge to build a fast microservice REST API using *Java* and *Spring Boot*.
 
