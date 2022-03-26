@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/ada-school/module-template/blob/main/ada.png">
 
 
-## Spring Boot and Java Backend Mentor 💻 Code Challenge 💻
+## Spring Boot and Java Backend Mentor 👩‍💻 👨‍💻 Code Challenge
 
 Thank you 🙏 for taking the time to implement this coding challenge to build a fast microservice REST API using *Java* and *Spring Boot*.
 
@@ -12,7 +12,7 @@ Thank you 🙏 for taking the time to implement this coding challenge to build a
 * Create and share the Repository used to store your solution.
 
 
-## Coding Challenge 👩‍💻 👨‍💻
+## Coding Challenge  💻 
 
 A bus company wants to start using technology and allow their users to book online tickets. Please help them build a [REST API Level 2](https://martinfowler.com/articles/richardsonMaturityModel.html#level2)(pereferible) that lets them control their trip bookings, supporting the following operations:
 * Create a new booking with the following information: name, email, origin, destination, departure date and time and duration.
