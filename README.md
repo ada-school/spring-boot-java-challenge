@@ -9,7 +9,7 @@ Thank you 🙏 for taking the time to implement this coding challenge to build a
 
 * Take 2-4 hours to implement your project.
 * Use coding best practices.
-* Create and share the Repository used to store your solution.
+* Create a fork of this repo and share your solution when finished.
 
 
 ## Coding Challenge  💻 
@@ -25,7 +25,7 @@ A bus company wants to start using technology and allow their users to book onli
 * SOLID principles.
 * Clear usage of Depdencies injection.
 * Correct ussage of Spring Boot annotations.
-* Connect with a persistance layer.
+* Correct connection with a persistance layer.
 
 # Desired technology stack:
 * Java 
@@ -34,6 +34,6 @@ A bus company wants to start using technology and allow their users to book onli
 
 ## Submit your solution
 
-Once you're done, please send us a confirmation email with your repository link to [talento@ada-school.org](mailto:talento@ada-school.org). After you submit your code, we will contact you to discuss next steps. 
+Once you're done, please send us an email to [talento@ada-school.org](mailto:talento@ada-school.org) with your repository link. After you submit your code, we will review it and contact you to discuss next steps. 
 
 Good luck! 💪
