@@ -1,9 +1,9 @@
 <img align="right" src="https://github.com/ada-school/module-template/blob/main/ada.png">
 
 
-## Spring Boot and Java Backend Mentor 👩‍💻 👨‍💻 Code Challenge
+## Spring Boot and Java/Kotlin Backend Mentor 👩‍💻 👨‍💻 Code Challenge
 
-Thank you 🙏 for taking the time to implement this coding challenge to build a fast microservice REST API using *Java* and *Spring Boot*.
+Thank you 🙏 for taking the time to implement this coding challenge to build a fast microservice REST API using *Java/Kotlin* and *Spring Boot*.
 
 ## Conditions
 
@@ -28,7 +28,7 @@ A bus company wants to start using technology and allow their users to book onli
 * Correct connection with a persistance layer.
 
 # Desired technology stack:
-* Java 
+* Java / Kotlin 
 * Spring Boot
 * MongoDB
 
